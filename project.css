@@ -1,6 +1,28 @@
 #title{
-    color:rebeccapurple
+    color:rebeccapurple;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
+}
+body{
+     background-color: royalblue; 
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+nav{
+    background-color: black;
+    top:0;
+    width:100%;
+    position: fixed;
+}
+nav ul{ 
+    display: inline-block;
+    padding: 10px;
+    color: beige;
+}
+nav ul li {line-height: 0em;
+    display: inline-block;
+    margin: 10px;
+
 }
