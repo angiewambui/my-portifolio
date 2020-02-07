@@ -8,7 +8,7 @@ body{
      background-color: royalblue; 
     color: black;
     text-align: center;
-    font-size: large;
+    font-size: xx-large
 }
 nav{
     background-color: black;
@@ -25,4 +25,7 @@ nav ul li {line-height: 0em;
     display: inline-block;
     margin: 10px;
 
+}
+img{
+    border-radius: 25px;
 }
