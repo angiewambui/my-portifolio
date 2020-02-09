@@ -29,3 +29,10 @@ nav ul li {line-height: 0em;
 img{
     border-radius: 25px;
 }
+#projects{
+    text-align:left;
+    color: blueviolet;
+}
+#list{
+    color: white;
+}
