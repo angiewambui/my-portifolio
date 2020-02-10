@@ -14,7 +14,7 @@ this is a project that describes who i am and lists some of the projects i have 
 *use code
 
 ## link to live site
- https://angiewambui.github.io/my-portifolio/
+ file:///home/angela/documents/projects/independent-project/index.html
 
  ## copyright and license
                      GNU GENERAL PUBLIC LICENSE
