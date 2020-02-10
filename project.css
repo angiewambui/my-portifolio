@@ -32,7 +32,9 @@ img{
 #projects{
     text-align:left;
     color: blueviolet;
+    font-style: initial;
 }
 #list{
     color: white;
+    text-align: left;
 }
